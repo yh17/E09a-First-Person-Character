@@ -30,7 +30,9 @@ Run the project, and make sure everything looks correct. Your perspective should
 
 In the Project menu->Project Settings, select the Input Map tab. As previously, set up WASD keyboard controls to the following mappings: forward, left, back, right. Close Project Settings
 
-Right-click on the Player node, and Attach Script. Change the Template to Empty, and set the Path to res://Scripts/Player.gd. *You will need to create the Scripts folder (either in the file system or in the Godot file picker)*
+*You will need to create a res://Scripts folder (either in the file system or in the Godot file picker)*
+
+Right-click on the Player node, and Attach Script. Change the Template to Empty, and set the Path to res://Scripts/Player.gd
 
 In the resulting Player.gd script, type the following:
 
